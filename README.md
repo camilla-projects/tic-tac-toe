@@ -1,6 +1,3 @@
-# tic-tac-toe
-AI-Driven Cancer Treatment Decision Simulator (Tic-Tac-Toe based)
-
 # AI-Driven Cancer Treatment Decision Simulator
 
 This project is an innovative Python simulator designed as a coursework assignment to help clinicians train in developing better cancer treatment strategies. Using the familiar Tic-Tac-Toe framework as an analogy, this AI-driven tool represents the dynamic and challenging decision-making process involved in real-world cancer treatment planning.
